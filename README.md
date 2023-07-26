@@ -15,5 +15,15 @@ and **Deepgram** to transcribe the podcast to text
 - add a recommendation feature based on user activity.
 - better frontend.
 
+## How to run
+installing the node dependecies (do this in the root of the repo)
+```
+npm install
+```
 
+type the following commands, navigate to ```src``` folder first
+```
+cd src
+npm run dev
+```
 
